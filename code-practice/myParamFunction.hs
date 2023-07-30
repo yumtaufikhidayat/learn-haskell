@@ -1,8 +1,8 @@
---f(x,y)=3x+5y+2
+-- f(x,y)=3x+5y+2
 f :: Int -> Int -> Int
 f x y = 3*x + 5*y + 2
 
--- g(x,y)=x2+y2
+-- g(x,y)=x^2+y^2
 g :: Int -> Int -> Int
 g a b = a^2 + b^2
 
